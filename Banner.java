@@ -35,6 +35,15 @@ public class Banner {
     static String getLine6P() { return "*       "; }
     static String getLine7P() { return "*       "; }
 
+    // -------- Letter P --------
+    static String getLine1P() { return " ***** "; }
+    static String getLine2P() { return "*     *"; }
+    static String getLine3P() { return "*     *"; }
+    static String getLine4P() { return " ***** "; }
+    static String getLine5P() { return "*       "; }
+    static String getLine6P() { return "*       "; }
+    static String getLine7P() { return "*       "; }
+
     // -------- Letter S --------
     static String getLine1S() { return " ***** "; }
     static String getLine2S() { return "*       "; }
